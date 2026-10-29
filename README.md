@@ -6,7 +6,7 @@
 
 ## 1. Topology
 
-![Static Default Routing Lab Topology](screenshots/static-default-routing-topology.jpg)
+![Static Default Routing Lab Topology](static-default-routing-topology.jpg)
 
 ### Network Devices
 - 3 × Cisco 2811 Routers
